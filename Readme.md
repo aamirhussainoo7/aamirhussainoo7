@@ -1,96 +1,166 @@
-<h1 align="center">Hi 👋, I'm Aamir Hussain</h1>
-<h3 align="center">Full Stack & Backend Developer from India 🇮🇳</h3>
+<h1 align="center">Hey 👋 I'm Aamir Hussain</h1>
+
+<h3 align="center">
+Full Stack & Backend Developer 🚀
+</h3>
 
 <p align="center">
-  Passionate about building scalable web applications, AI-powered tools, and real-world backend systems.
+I build scalable web applications, AI-powered tools, and modern backend systems.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Developer;MERN+%2B+Django+Developer;Building+AI+Powered+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🌐 Connect With Me
 
-- 💻 Full Stack Developer focused on MERN & Django
-- 🌱 Currently improving my Backend & System Design skills
-- 🤖 Building AI-powered applications
-- 📚 Exploring scalable architectures & clean code practices
-- 🎯 Looking for Backend / Full Stack Internship opportunities
+<p align="center">
+<a href="https://portfolio-aamir.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-aamir-hussain07/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aamithussain.786@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+```js
+const aamir = {
+    code: ["JavaScript", "TypeScript", "Python", "C++"],
+    technologies: {
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Express.js", "Django"],
+        database: ["MongoDB", "PostgreSQL", "SQLite"],
+    },
+    currentFocus: "Building scalable full stack & backend applications",
+};
+```
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+- 💻 Full Stack & Backend Developer
+- 🤖 Building AI-powered applications
+- ⚡ Passionate about clean UI & scalable backend systems
+- 🌱 Currently learning System Design & Advanced Backend Development
+- 🎯 Open to Internship & Freelance Opportunities
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
+---
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
+# 🛠 Tech Stack
 
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,nodejs,express,django,mongodb,postgresql,tailwind,git,github,vscode,postman,vercel" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
+---
+
 ## 🤖 AI Resume Builder
-AI-powered ATS Resume Builder built using React, Django REST Framework, and PostgreSQL with smart resume generation features.
 
-## 🛒 MERN Ecommerce Platform
-Full-stack ecommerce application with authentication, product management, cart system, and secure checkout.
-
-## 🎓 Student Result Management System
-Desktop-based result management system built using Python, Tkinter, and SQLite with admin dashboard and report generation.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AamirHussainoo7&show_icons=true&theme=tokyonight" />
+<p>
+AI-powered ATS Resume Builder that helps users generate professional resumes with modern templates and AI suggestions.
 </p>
 
+### ⚡ Features
+- AI Resume Generation
+- ATS Friendly Templates
+- Resume Export
+- Authentication System
+- Responsive Dashboard
+
+### 🛠 Tech Stack
+`React` `Django REST Framework` `PostgreSQL` `TailwindCSS`
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamirHussainoo7&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="mailto:YOUR-EMAIL@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
-</a>
-
-<a href="https://github.com/AamirHussainoo7" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop" width="900"/>
 </p>
 
 ---
 
-<p align="center">
-⭐ Building projects, learning every day, and growing as a developer.
+## 👨‍💻 Peer Learning Platform
+
+<p>
+Collaborative learning platform where students can connect, share resources, and learn together through community interaction.
 </p>
+
+### ⚡ Features
+- User Authentication
+- Resource Sharing
+- Community Learning
+- Interactive Dashboard
+
+### 🛠 Tech Stack
+`React` `Node.js` `MongoDB` `Express.js`
+
+<p align="center">
+<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop" width="900"/>
+</p>
+
+---
+
+## 🛒 DailyCart - Ecommerce Platform
+
+<p>
+Modern full-stack ecommerce platform with secure authentication, shopping cart, and responsive UI.
+</p>
+
+### ⚡ Features
+- Product Management
+- Secure Authentication
+- Shopping Cart
+- Responsive Design
+
+### 🛠 Tech Stack
+`React` `Node.js` `MongoDB` `Express.js`
+
+<p align="center">
+<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1200&auto=format&fit=crop" width="900"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AamirHussainoo7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamirHussainoo7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AamirHussainoo7&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# ⚡ Current Goals
+
+- 🚀 Build scalable backend systems
+- 📚 Improve system design knowledge
+- 🤖 Build more AI-powered applications
+- 🌍 Contribute to open source projects
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ Turning ideas into real-world products.
+</h3>
