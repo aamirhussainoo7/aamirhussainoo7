@@ -70,7 +70,7 @@ AI-powered ATS Resume Builder with smart resume generation and modern templates.
 `React` `Django` `PostgreSQL` `TailwindCSS`
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" width="500"/>
+<img src="./Resume Builder.png" width="500"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ Collaborative learning platform for students to connect and learn together.
 `React` `Node.js` `MongoDB` `Express.js`
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1000&auto=format&fit=crop" width="500"/>
+<img src="./PeerLearning.png" width="500"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Modern ecommerce platform with secure authentication and shopping features.
 `React` `Node.js` `MongoDB` `Express.js`
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1000&auto=format&fit=crop" width="500"/>
+<img src="./DailyCart.png" width="500"/>
 </p>
 
 ---
