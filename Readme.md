@@ -1,20 +1,20 @@
-<h1 align="center">Hey 👋 I'm Aamir Hussain</h1>
+<h1 align="center">Hi 👋, I'm Aamir Hussain</h1>
 
 <h3 align="center">
 Full Stack & Backend Developer 🚀
 </h3>
 
 <p align="center">
-I build scalable web applications, AI-powered tools, and modern backend systems.
+Building scalable web applications, AI-powered tools, and modern backend systems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Developer;MERN+%2B+Django+Developer;Building+AI+Powered+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;MERN+%2B+Django+Developer;Building+AI+Powered+Projects" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://portfolio-aamir.vercel.app/">
@@ -32,29 +32,25 @@ I build scalable web applications, AI-powered tools, and modern backend systems.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-```js
+```javascript
 const aamir = {
-    code: ["JavaScript", "TypeScript", "Python", "C++"],
-    technologies: {
-        frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["Node.js", "Express.js", "Django"],
-        database: ["MongoDB", "PostgreSQL", "SQLite"],
-    },
-    currentFocus: "Building scalable full stack & backend applications",
+  role: "Full Stack & Backend Developer",
+  tech: ["React", "Node.js", "Django", "MongoDB"],
+  focus: "Building scalable AI-powered applications",
 };
 ```
 
 - 💻 Full Stack & Backend Developer
-- 🤖 Building AI-powered applications
-- ⚡ Passionate about clean UI & scalable backend systems
-- 🌱 Currently learning System Design & Advanced Backend Development
-- 🎯 Open to Internship & Freelance Opportunities
+- 🤖 Passionate about AI-powered applications
+- ⚡ Exploring scalable backend architecture
+- 🌱 Learning System Design & Advanced Backend
+- 🎯 Open to Internship Opportunities
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,nodejs,express,django,mongodb,postgresql,tailwind,git,github,vscode,postman,vercel" />
@@ -68,74 +64,49 @@ const aamir = {
 
 ## 🤖 AI Resume Builder
 
-<p>
-AI-powered ATS Resume Builder that helps users generate professional resumes with modern templates and AI suggestions.
-</p>
+AI-powered ATS Resume Builder with smart resume generation and modern templates.
 
-### ⚡ Features
-- AI Resume Generation
-- ATS Friendly Templates
-- Resume Export
-- Authentication System
-- Responsive Dashboard
-
-### 🛠 Tech Stack
-`React` `Django REST Framework` `PostgreSQL` `TailwindCSS`
+### ⚡ Tech Stack
+`React` `Django` `PostgreSQL` `TailwindCSS`
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop" width="900"/>
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" width="500"/>
 </p>
 
 ---
 
 ## 👨‍💻 Peer Learning Platform
 
-<p>
-Collaborative learning platform where students can connect, share resources, and learn together through community interaction.
-</p>
+Collaborative learning platform for students to connect and learn together.
 
-### ⚡ Features
-- User Authentication
-- Resource Sharing
-- Community Learning
-- Interactive Dashboard
-
-### 🛠 Tech Stack
+### ⚡ Tech Stack
 `React` `Node.js` `MongoDB` `Express.js`
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop" width="900"/>
+<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1000&auto=format&fit=crop" width="500"/>
 </p>
 
 ---
 
 ## 🛒 DailyCart - Ecommerce Platform
 
-<p>
-Modern full-stack ecommerce platform with secure authentication, shopping cart, and responsive UI.
-</p>
+Modern ecommerce platform with secure authentication and shopping features.
 
-### ⚡ Features
-- Product Management
-- Secure Authentication
-- Shopping Cart
-- Responsive Design
-
-### 🛠 Tech Stack
+### ⚡ Tech Stack
 `React` `Node.js` `MongoDB` `Express.js`
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1200&auto=format&fit=crop" width="900"/>
+<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1000&auto=format&fit=crop" width="500"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AamirHussainoo7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AamirHussainoo7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamirHussainoo7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamirHussainoo7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -144,23 +115,15 @@ Modern full-stack ecommerce platform with secure authentication, shopping cart, 
 
 ---
 
-# ⚡ Current Goals
+## ⚡ Current Goals
 
 - 🚀 Build scalable backend systems
+- 🤖 Create more AI-powered products
 - 📚 Improve system design knowledge
-- 🤖 Build more AI-powered applications
-- 🌍 Contribute to open source projects
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+- 🌍 Contribute to open source
 
 ---
 
 <h3 align="center">
-⭐ Turning ideas into real-world products.
+⭐ Code. Learn. Build. Repeat.
 </h3>
